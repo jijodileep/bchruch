@@ -6,7 +6,7 @@ class State extends CI_Controller
 	public function __construct()
 	{
 		parent::__construct();
-		$this->load->model('State_model', 'state');
+		$this->load->model('state_model', 'state');
 	}
 	/**
 	 * Index Page for this controller.

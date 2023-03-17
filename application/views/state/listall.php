@@ -33,8 +33,10 @@
             <table id="user_data" class="table table-bordered table-striped">  
                      <thead>  
                           <tr>  
-                               <th width="10%">Image</th>  
-                               <th width="35%">First Name</th>   
+                               <th width="10%">ID</th>  
+                               <th width="35%">State</th>
+                               <th></th> 
+                               <th></th>  
                           </tr>  
                      </thead>  
                 </table>  
